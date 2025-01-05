@@ -1,2 +1,2 @@
-# portfolio-website-code-with-tanveer
-portfolio-website-code-with-tanveer
+# portfolio-website-code-with-prithivirajan
+portfolio-website-code-with-prithivirajan
